@@ -1,9 +1,9 @@
 # Portfolio Optimization
 ## Reinforcement Learning using Q Learning.
 
-![Stock Trading](https://flextrade.com/wp-content/uploads/2015/07/Blog_FeatureImage_PTS_10959394-300x225.jpg)
+![Stock Trading](https://3ncb884ou5e49t9eb3fpeur1-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/canadian-marijuana-stocks-full-bloom-hero.jpg)	
 
-###Problem Formulation :-
+### Problem Formulation :-
 We are trying to solve a very simplied version of the original Portfolio Optimization Problem, so that it can be within the capabilities of Reinforcemen learning using Q-learning and specifically done to avoid any Neural Network based approaches.
 
 #### Assumptions :-

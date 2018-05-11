@@ -29,10 +29,6 @@ The do-nothing benchmark
 - If the stock portfolio is kept aside for the exploitation period, then the system should outperform the price rise of those stocks in that period.
 - For all the stocks, the do-nothing benchmark is calculated by giving equal weightage to all stocks(i.e. 20% -> EEEEE) and then allowing the stock value to increase over the period.
 
-
-## Getting Started ...
-## Prerequisites ...
-
 ## Authors
 * Aditya Masurkar
 * Sachin Haldavanekar
